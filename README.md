@@ -20,5 +20,7 @@ Here are some ideas to get you started:
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=americamedeiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=americamedeiros&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><br
+  <img width="458" height="253" alt="{536FFFB4-9B00-4E12-88AB-2F4779B39EEC}" src="https://github.com/user-attachments/assets/9efc824f-bfe2-47d8-b51b-373ebcf7e84e" />
+
 </div>
