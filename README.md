@@ -86,6 +86,4 @@ ENDCLASS.
 
 ---
 
-*Built with ❤️ and lots of ABAP*
-
 </div>
